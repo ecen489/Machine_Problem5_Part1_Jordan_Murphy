@@ -1,8 +1,3 @@
 <resources>
     <string name="app_name">MP5_Part1_JordanMurphy</string>
-    <string-array name="songs">
-        <item>Joleen</item>
-        <item>Hymn For The Weekend</item>
-        <item>Every Breaking Wave</item>
-    </string-array>
 </resources>

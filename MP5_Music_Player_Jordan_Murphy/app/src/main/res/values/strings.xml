@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MP5_Music_Player_Jordan_Murphy</string>
-    <string-array name="songs">
-        <item>Joleen</item>
-        <item>Hymn For The Weekend</item>
-        <item>Every Breaking Wave</item>
-    </string-array>
-</resources>
